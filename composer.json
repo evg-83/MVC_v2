@@ -1,0 +1,16 @@
+{
+    "name": "gru/mvc_v2",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gru",
+            "email": "121221770+evg-83@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
